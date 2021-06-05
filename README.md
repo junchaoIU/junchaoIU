@@ -9,5 +9,5 @@
 - 🌱 I’m a junior student now and currently learning NLP, ML and DL
 - 📫 if you have any question, please feel free to contact with my by my Email: wujunchaoIU@outlook.com
 
-![Anurag 的 GitHub 统计](https://github-readme-stats.vercel.app/api ?username=junchaoIU&show_icons=true&theme=radical )
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=junchaoIU&show_icons=true&theme=tokyonight" />
 
