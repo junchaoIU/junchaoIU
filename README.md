@@ -10,6 +10,6 @@
 - 📫 if you have any question, please feel free to contact with my by my Email: wujunchaoIU@outlook.com
 <br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=junchaoIU&show_icons=true&theme=tokyonight" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junchaoIU&layout=compact&show_icons=true&theme=tokyonight" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=junchaoIU&show_icons=true&theme=tokyonight" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junchaoIU&layout=compact&show_icons=true&theme=tokyonight" />
 
