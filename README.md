@@ -13,6 +13,14 @@
 - 📫 if you have any question, please feel free to contact with my by my Email: wujunchaoIU@outlook.com
 <br/>
 
+### TODO_List
+- [X] python basic coding of distributed and socket
+- [ ] move the module of Youth subculture analysis alone from the pythonCenter
+- [ ] A SpringBoot example library as the scaffold for myself
+- [ ] develop the protegeAuto_tool
+- [ ] rebuild and repair the Canton-KG-React project
+
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=junchaoIU&show_icons=true&theme=tokyonight" />
 
 ### 技术栈
@@ -25,6 +33,8 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white)
 ![Kreas](https://img.shields.io/badge/-Kreas-192133?style=flat-square&logo=figma&logoColor=white)
 ![Tensortflow](https://img.shields.io/badge/-Tensortflow-192133?style=flat-square&logo=figma&logoColor=white)
+
+
 
 
 
