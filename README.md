@@ -19,6 +19,8 @@
 - [ ] A SpringBoot example library as the scaffold for myself
 - [ ] develop the protegeAuto_tool
 - [ ] rebuild and repair the Canton-KG-React project
+- [ ] 西瓜书笔记补全
+- [ ] A NLP Note：start from Transformer&attention 
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=junchaoIU&show_icons=true&theme=tokyonight" />
