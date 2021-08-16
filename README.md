@@ -31,7 +31,7 @@
 ![Tensortflow](https://img.shields.io/badge/-Tensortflow-192133?style=flat-square&logo=figma&logoColor=white)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=junchaoIU&show_icons=true&theme=tokyonight" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junchaoIU&hide=html&layout=compact&theme=radical" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junchaoIU&hide=html&layout=compact&theme=radical" />
 
 
 
