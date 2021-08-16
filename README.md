@@ -20,9 +20,6 @@
 - [ ] rebuild and repair the Canton-KG-React project
 - [ ] 西瓜书笔记补全
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=junchaoIU&show_icons=true&theme=tokyonight" />
-
 ## **Linguagens e Ferramentas**
 ![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
@@ -33,7 +30,8 @@
 ![Kreas](https://img.shields.io/badge/-Kreas-192133?style=flat-square&logo=figma&logoColor=white)
 ![Tensortflow](https://img.shields.io/badge/-Tensortflow-192133?style=flat-square&logo=figma&logoColor=white)
 
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=junchaoIU&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junchaoIU&hide=html&layout=compact&theme=radical" />
 
 
 
