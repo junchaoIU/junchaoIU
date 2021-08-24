@@ -31,10 +31,9 @@
 ![Tensortflow](https://img.shields.io/badge/-Tensortflow-192133?style=flat-square&logo=figma&logoColor=white)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=junchaoIU&show_icons=true&theme=tokyonight" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junchaoIU&hide=html&layout=compact&theme=radical" />
-
-
-
-
-
-
+<a href="https://github.com/junchaoIU/ChineseNLP_ResourceNote">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=junchaoIU&repo=ChineseNLP_ResourceNote&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/junchaoIU/NLP_Learning_Notes">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=junchaoIU&repo=NLP_Learning_Notes&show_icons=true&theme=tokyonight" />
+</a>
