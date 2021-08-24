@@ -5,7 +5,7 @@
 - 👀 I’m focusing on Information Science、Knowledge Graph, Natural language processing and data mining at the moment
 - 🌱 I’m currently a junior student and rapt in NLP, ML and DL
 - 📫 if you have any questions or ideas, please feel free to contact with my by my Email: wujunchaoIU@outlook.com. I'm looking forward for a nice sharing or a great cooperation.
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junchaoIU&theme=monokai" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junchaoIU" />
 
 ## **MY RECENT FOCUSING**
 - some nlp work study like Transformer,attention,Bert and try to work with them
@@ -30,10 +30,10 @@
 ![Kreas](https://img.shields.io/badge/-Kreas-192133?style=flat-square&logo=figma&logoColor=white)
 ![Tensortflow](https://img.shields.io/badge/-Tensortflow-192133?style=flat-square&logo=figma&logoColor=white)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=junchaoIU&show_icons=true&theme=tokyonight" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=junchaoIU&show_icons=true" />
 <a href="https://github.com/junchaoIU/ChineseNLP_ResourceNote">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=junchaoIU&repo=ChineseNLP_ResourceNote&show_icons=true&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=junchaoIU&repo=ChineseNLP_ResourceNote" />
 </a>
 <a href="https://github.com/junchaoIU/NLP_Learning_Notes">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=junchaoIU&repo=NLP_Learning_Notes&show_icons=true&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=junchaoIU&repo=NLP_Learning_Notes" />
 </a>
