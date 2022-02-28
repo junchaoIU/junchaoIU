@@ -3,21 +3,21 @@
 
 - 👋 Hi, I’m @junchaoIU, from ZHA, China.
 - 👀 I’m focusing on Information Science、Knowledge Graph, Natural language processing and data mining at the moment
-- 🌱 I’m currently a junior student and rapt in NLP, ML and DL
+- 🌱 I’m currently a senior student and rapt in NLP, ML and DL
 - 📫 if you have any questions or ideas, please feel free to contact with my by my Email: wujunchaoIU@outlook.com. I'm looking forward for a nice sharing or a great cooperation.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junchaoIU" />
 
 ## **MY RECENT FOCUSING**
-- some nlp work study like Transformer,attention,Bert and try to work with them
-- automatic construction of KG in revolutionary historical documents
-- IELTS test
+- Automatic construction of Knowledge Graph in revolutionary historical documents
+- Stance Detection in Chinese Microblogs and Billbill comments
+- Development of AutoProtege
 
 ## **TODO_List**
 - [X] python basic coding of distributed and socket
-- [ ] move the module of Youth subculture analysis alone from the pythonCenter
+- [X] move the module of Youth subculture analysis alone from the pythonCenter
 - [ ] A SpringBoot example library as the scaffold for myself
-- [ ] develop the protegeAuto_tool
-- [ ] rebuild and repair the Canton-KG-React project
+- [X] develop the protegeAuto_tool
+- [X] rebuild and repair the Canton-KG-React project
 - [ ] 西瓜书笔记补全
 
 ## **Linguagens e Ferramentas**
