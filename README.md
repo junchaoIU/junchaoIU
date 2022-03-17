@@ -11,7 +11,7 @@
 - Stance Detection in Chinese Microblogs and Billbill comments
 - Development of AutoProtege
 
-## **Linguagens e Ferramentas**
+## **LANGUAGES AND FRAMEWORKS**
 ![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-192133?style=flat-square&logo=javaScript&logoColor=white)
