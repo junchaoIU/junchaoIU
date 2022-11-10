@@ -4,8 +4,8 @@
 - 👋 Hi, I’m WU Junchao, a M.S. Student in UM（University of Macau）.
 - 👀 I’m focusing on Natural language processing, Machine Translation, and Knowledge Graphs at the moment.
 - 🎓 If you are also interested in machine translation, you can follow my Senior Fellow Apprentice and Lab: [Zhan Runzhe](https://github.com/Ririkoo) and [NLP2CT LAB](https://github.com/NLP2CT), I love them.
-✨[Chen Weiyu](https://github.com/weiyuchens) was my Senior Fellow Apprentice and guide when I was an undergraduate student, and he is now a Ph.D. Candidate in artificial intelligence at King’s College London.
-🌈 [Chen Xin](https://github.com/Chen-X666) is one of my best friends, who focus on BA and NLP at University of Southampton currently, he has a lot of interesting dreams.
+- ✨[Chen Weiyu](https://github.com/weiyuchens) was my Senior Fellow Apprentice and guide when I was an undergraduate student, and he is now a Ph.D. Candidate in artificial intelligence at King’s College London.
+- 🌈 [Chen Xin](https://github.com/Chen-X666) is one of my best friends, who focus on BA and NLP at University of Southampton currently, he has a lot of interesting dreams.
 - 📫 if you have any questions or ideas, please feel free to contact with my by my Email: wujunchaoIU@outlook.com. I'm looking forward for a nice sharing or a great cooperation.
 
 ## **MY RECENT FOCUSING**
