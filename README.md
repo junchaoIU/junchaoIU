@@ -9,9 +9,9 @@
 - 📫 if you have any questions or ideas, please feel free to contact with my by my Email: wujunchaoIU@outlook.com. I'm looking forward for a nice sharing or a great cooperation.
 
 ## **MY RECENT FOCUSING**
-- Machine Translation
+- Unsupervised Machine Translation
+- Chinese Danmaku Domain NLP Community Building
 - Automatic construction of Knowledge Graphs in documents
-- Development of AutoProtege
 
 ## **LANGUAGES AND FRAMEWORKS**
 ![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=java&logoColor=white)
