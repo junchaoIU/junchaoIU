@@ -19,6 +19,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-192133?style=flat-square&logo=javaScript&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-192133?style=flat-square&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/-React-192133?style=flat-square&logo=react&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white)
-![Kreas](https://img.shields.io/badge/-Kreas-192133?style=flat-square&logo=figma&logoColor=white)
+![SQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white)
+![Pytorch](https://img.shields.io/badge/-Kreas-192133?style=flat-square&logo=figma&logoColor=white)
 ![Tensortflow](https://img.shields.io/badge/-Tensortflow-192133?style=flat-square&logo=figma&logoColor=white)
