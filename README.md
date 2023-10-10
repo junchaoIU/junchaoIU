@@ -10,8 +10,7 @@
 
 ## **MY RECENT FOCUSING**
 - Unsupervised Machine Translation
-- Chinese Danmaku Domain NLP Community Building
-- Automatic construction of Knowledge Graphs in documents
+- LLM-generated Text Detection
 
 ## **LANGUAGES AND FRAMEWORKS**
 ![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=java&logoColor=white)
