@@ -5,7 +5,7 @@
 - 👀 I’m focusing on Natural language processing, Machine Translation, and Large Language Models at the moment.
 - 🎓 If you are also interested in NLP and machine translation, you can follow my lab and lab members: [NLP2CT LAB](http://nlp2ct.cis.um.edu.mo/), I love them.
 - ⭐[Zhan Runzhe](https://runzhe.me/) is my current advisor. He is a brilliant scientist and one of the nicest people I have ever met.
-- ✨[Chen Weiyu](https://github.com/weiyuchens) was my advisor when I was an undergraduate student, and he is planning his own business territory now.
+- ✨[Chen Weiyu](https://github.com/waiyuchan) was my advisor when I was an undergraduate student, and he is planning his own business territory now.
 - 🌈[Chen Xin](https://github.com/Chen-X666) is one of my best friends, who focus on Fintech and NLP at UoS currently, he has many interesting dreams.
 - 📫 if you have any questions or ideas, please feel free to contact with my by my Email: wujunchaoIU@outlook.com. I'm looking forward for a nice sharing or a great cooperation.
 
